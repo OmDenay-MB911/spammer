@@ -19,7 +19,7 @@ logo = """
 / __| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ '__|
 \__ \ |_) | (_| | | | | | | | | | | |  __/ |
 |___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|
-    | | %sAuthor %s: %sRizky ID
+    | | %sAuthor %s: %sOmDenay Menembus Batas 911
 %s    |_| %sGithub %s: %shttps://github.com/hekelpro
 """%(cyan,hijau,merah,putih,cyan,hijau,merah,putih)
 
